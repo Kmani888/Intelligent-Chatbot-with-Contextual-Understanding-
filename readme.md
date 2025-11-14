@@ -29,8 +29,8 @@ I welcome contributions to the AGENTIC AI Chatbot project!  As an open-source in
 There are many ways you can contribute, whether you are a developer, IT professional, documentation expert, or simply a user with valuable feedback.
 
 Contact:
-Kopparapu Manikanta Chari
-kopparapumanikantachari@gmail.com
+[Kopparapu Manikanta Chari]
+[kopparapumanikantachari@gmail.com]
 
 
 ## Folder Structure
